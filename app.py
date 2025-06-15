@@ -46,7 +46,8 @@ economic_data = {
                 "currency": "INR",
                 "cities": {
                     "mumbai": {"inflation_adjustment": 1.2, "cost_of_living_adjustment": 1.3},
-                    "delhi": {"inflation_adjustment": 1.1, "cost_of_living_adjustment": 1.2}
+                    "delhi": {"inflation_adjustment": 1.1, "cost_of_living_adjustment": 1.2},
+                    "bangalore": {"inflation_adjustment": 1.0,"cost_of_living_adjustment": 1.4}
                 }
             },
             "japan": {
